@@ -1,4 +1,4 @@
-# Thunderstorm-Analyzer
+# Thunderstorm Analyzer
 
 ABSTRACT:
 ---------
