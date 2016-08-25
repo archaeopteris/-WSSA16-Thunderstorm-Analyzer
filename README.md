@@ -7,7 +7,7 @@ Every moment our bodies are penetrated by cosmic rays. Those are tiny little par
 It was observed that during thunderstorms number of this particles increases.
 We know that those excess number of particles are not coming from space, because they occur only during atmospheric events so they should be generated inside the thundercloud.
 
-Scientists at [Alikhanyan National Science Laboratory][2] (Yerevan Physics Institute) came up with a theory which explains why this is happening and the goal of this project is to test it and create a system which will analyze atmospheric properties like electric field, number of electrons, neutrons, muons and gamma rays taken from [public weather server][3] of Yerevan Physics Institute and study their temporal correlation to detect the cases of additional particle creation in a process called [Thunderstorm Ground Enhancement][4] (TGE).
+Scientists at Alikhanyan National Science Laboratory (Yerevan Physics Institute) came up with a theory which explains why this is happening and the goal of this project is to test it and create a system which will analyze atmospheric properties like electric field, number of electrons, neutrons, muons and gamma rays taken from public weather server of Yerevan Physics Institute and study their temporal correlation to detect the cases of additional particle creation in a process called Thunderstorm Ground Enhancement (TGE).
 
 Theory
 ------
@@ -27,3 +27,5 @@ The TGE events are characterized by following 7 criteria:
  - Increase of relative humidity above 80% and decrease of air temperature below 5 - 6* Celsius.
 
 The system should analyze all the data and look for this kind of events and notify us upon their occurring.
+
+Public Weather Server which includes cosmic ray detectors, electric field meters and lightning detectors: http://www.crd.yerphi.am/adei
