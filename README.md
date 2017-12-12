@@ -1,4 +1,5 @@
 # Thunderstorm Analyzer
+###### Project was done during Wolfram Summer School Armenia 2016
 
 ABSTRACT:
 ---------
